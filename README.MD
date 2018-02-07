@@ -4,9 +4,10 @@ A simple sql script that will populate a database with the famous northwind exam
 
 # Requirements
 
- * postgresql
+ * [POSTGRES](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 
 # Loading the database
 
-run the northwind.sql file to import the database
+* Use any Jetbrains IDE to connect to the database.
+* Run the northwind.sql file to import the database.
